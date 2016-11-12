@@ -1,0 +1,15 @@
+diff a/css/main.css b/css/main.css	(rejected hunks)
+@@ -1,12 +0,4 @@
+-body {
+-	background: #fcfcfc;
+-	color: #333;
+-	font-family: arial;
+-	font-size: 15px;
+-	margin: 0;
+-	padding: 0;
+-	border-top: 5px solid #aaa;
+-}
++
+ 
+ a {
+ 	color: #337693;
